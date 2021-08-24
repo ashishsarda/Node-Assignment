@@ -1,8 +1,8 @@
 const mongoose = require('mongoose');
-const validator = require('validator')
+const validator = require('validator')//validate different input data
 
-const passportLocalMongoose = require("passport-local-mongoose");
-const UserSchema = new mongoose.Schema({
+const passportLocalMongoose = require("passport-local-mongoose");//mongoose plugin for simplified username and password
+const UserSchema = new mongoose.Schema({ //Creating the user structure and it's attributes
     fname:{
         type:String,
         required:true,
@@ -33,4 +33,4 @@ const UserSchema = new mongoose.Schema({
     },birth:Date
 }) ;
 UserSchema.plugin(passportLocalMongoose);
-module.exports = mongoose.model("User",UserSchema);
+module.exports = mongoose.model("User",UserSchema);//Exporting the User module to be used in other files.
