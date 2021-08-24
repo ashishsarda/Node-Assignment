@@ -42,6 +42,8 @@ app.use(bodyParser.urlencoded(
       { extended:true }
 ))
 
+app.use( express.static('views') );//serve images to the client
+
 app.use(passport.initialize());
 app.use(passport.session());
 

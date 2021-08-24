@@ -21,3 +21,34 @@
 {"message":"Acessed the intro page","level":"info"}
 {"message":"Ashish has logged out","level":"info"}
 {"message":"accessed the home page","level":"info"}
+{"message":"accessed the home page","level":"info"}
+{"message":"accessed the register page","level":"info"}
+{"message":"New User registered","level":"info"}
+{"message":"Trying to login","level":"info"}
+{"message":"accessed the user profile page","level":"info"}
+{"message":"Acessed the intro page","level":"info"}
+
+
+//This is the log file{"message":"accessed the home page","level":"info"}
+{"message":"accessed the register page","level":"info"}
+{"message":"New User registered","level":"info"}
+{"message":"Trying to login","level":"info"}
+{"message":"accessed the user profile page","level":"info"}
+{"message":"Acessed the intro page","level":"info"}
+{"message":"Acessed the jobs page","level":"info"}
+{"message":"Acessed the meme page","level":"info"}
+{"message":"Acessed the meme page","level":"info"}
+{"message":"accessed the home page","level":"info"}
+{"message":"accessed the register page","level":"info"}
+{"message":"New User registered","level":"info"}
+{"message":"Trying to login","level":"info"}
+{"message":"accessed the user profile page","level":"info"}
+{"message":"Ashish has logged out","level":"info"}
+{"message":"accessed the home page","level":"info"}
+{"message":"Trying to login","level":"info"}
+{"message":"accessed the user profile page","level":"info"}
+{"message":"Acessed the intro page","level":"info"}
+{"message":"Acessed the jobs page","level":"info"}
+{"message":"Acessed the meme page","level":"info"}
+{"message":"Acessed the jobs page","level":"info"}
+{"message":"Acessed the meme page","level":"info"}
